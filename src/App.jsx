@@ -24,7 +24,7 @@ function App() {
 
 const appRouter=createBrowserRouter([
   {
-    path:"/",
+    path:"/Responsive-react-project",
     element:<App />,
     errorElement:<Error />,
     children:[
